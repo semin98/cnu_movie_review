@@ -1,6 +1,6 @@
 import pprint
 import requests
-form bs4 import BeautifulSoup
+from bs4 import BeautifulSoup
 
 url =
 result = requests.get(url)
